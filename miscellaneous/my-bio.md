@@ -35,7 +35,7 @@ processes.​
 ​James has almost 20 years experience as a lead developer in the finance industry 
 at various banks, hedge funds and startups with applications ranging​ from fraud 
 detection to pricing.  He cares deeply about design and building quality into 
-the heart of all software.
+the heart of all software and is a firm advocate of XP practices such as TDD and BDD.
 
 ---
 
