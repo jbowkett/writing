@@ -32,8 +32,8 @@ global customers on all subjects related to blockchain design and architecture.
 James is the Engineering Practice Lead for Digital Consulting.  He has 
 responsibility for the technical direction of our development teams and 
 processes.​
-​James has almost 20 years experience as a lead developer in the finance industry 
-at various banks, hedge funds and startups with applications ranging​ from fraud 
+James has almost 20 years experience as a lead developer in the finance industry 
+at various banks, hedge funds and startups with applications ranging from fraud 
 detection to pricing.  He cares deeply about design and building quality into 
 the heart of all software and is a firm advocate of XP practices such as TDD and BDD.
 
